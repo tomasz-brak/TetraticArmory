@@ -1,0 +1,110 @@
+[
+    {
+        "predicate": {
+            "items": [
+                "minecraft:leather_leggings"
+            ]
+        },
+        "item": "tetratic_armory:modular_leggings",
+        "modules": {
+            "leggings/leg_left": [
+                "leggings/basic_leg_left",
+                "basic_leg/leather"
+            ],
+            "leggings/leg_right": [
+                "leggings/basic_leg_right",
+                "basic_leg/leather"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:chainmail_leggings"
+            ]
+        },
+        "item": "tetratic_armory:modular_leggings",
+        "modules": {
+            "leggings/leg_left": [
+                "leggings/basic_leg_left",
+                "basic_leg/chainmail"
+            ],
+            "leggings/leg_right": [
+                "leggings/basic_leg_right",
+                "basic_leg/chainmail"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:iron_leggings"
+            ]
+        },
+        "item": "tetratic_armory:modular_leggings",
+        "modules": {
+            "leggings/leg_left": [
+                "leggings/basic_leg_left",
+                "basic_leg/iron"
+            ],
+            "leggings/leg_right": [
+                "leggings/basic_leg_right",
+                "basic_leg/iron"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:golden_leggings"
+            ]
+        },
+        "item": "tetratic_armory:modular_leggings",
+        "modules": {
+            "leggings/leg_left": [
+                "leggings/basic_leg_left",
+                "basic_leg/gold"
+            ],
+            "leggings/leg_right": [
+                "leggings/basic_leg_right",
+                "basic_leg/gold"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:diamond_leggings"
+            ]
+        },
+        "item": "tetratic_armory:modular_leggings",
+        "modules": {
+            "leggings/leg_left": [
+                "leggings/basic_leg_left",
+                "basic_leg/diamond"
+            ],
+            "leggings/leg_right": [
+                "leggings/basic_leg_right",
+                "basic_leg/diamond"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:netherite_leggings"
+            ]
+        },
+        "item": "tetratic_armory:modular_leggings",
+        "modules": {
+            "leggings/leg_left": [
+                "leggings/basic_leg_left",
+                "basic_leg/netherite"
+            ],
+            "leggings/leg_right": [
+                "leggings/basic_leg_right",
+                "basic_leg/netherite"
+            ]
+        }
+    }
+]

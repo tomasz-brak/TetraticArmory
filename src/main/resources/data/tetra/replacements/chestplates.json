@@ -1,0 +1,134 @@
+[
+    {
+        "predicate": {
+            "items": [
+                "minecraft:leather_chestplate"
+            ]
+        },
+        "item": "tetratic_armory:modular_chestplate",
+        "modules": {
+            "chestplate/breastplate": [
+                "chestplate/basic_breastplate",
+                "basic_breastplate/leather"
+            ],
+            "chestplate/pauldron_left": [
+                "chestplate/pauldron_left",
+                "pauldron_left/leather"
+            ],
+            "chestplate/pauldron_right": [
+                "chestplate/pauldron_right",
+                "pauldron_right/leather"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:chainmail_chestplate"
+            ]
+        },
+        "item": "tetratic_armory:modular_chestplate",
+        "modules": {
+            "chestplate/breastplate": [
+                "chestplate/basic_breastplate",
+                "basic_breastplate/chainmail"
+            ],
+            "chestplate/pauldron_left": [
+                "chestplate/pauldron_left",
+                "pauldron_left/chainmail"
+            ],
+            "chestplate/pauldron_right": [
+                "chestplate/pauldron_right",
+                "pauldron_right/chainmail"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:iron_chestplate"
+            ]
+        },
+        "item": "tetratic_armory:modular_chestplate",
+        "modules": {
+            "chestplate/breastplate": [
+                "chestplate/basic_breastplate",
+                "basic_breastplate/iron"
+            ],
+            "chestplate/pauldron_left": [
+                "chestplate/pauldron_left",
+                "pauldron_left/iron"
+            ],
+            "chestplate/pauldron_right": [
+                "chestplate/pauldron_right",
+                "pauldron_right/iron"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:golden_chestplate"
+            ]
+        },
+        "item": "tetratic_armory:modular_chestplate",
+        "modules": {
+            "chestplate/breastplate": [
+                "chestplate/basic_breastplate",
+                "basic_breastplate/gold"
+            ],
+            "chestplate/pauldron_left": [
+                "chestplate/pauldron_left",
+                "pauldron_left/gold"
+            ],
+            "chestplate/pauldron_right": [
+                "chestplate/pauldron_right",
+                "pauldron_right/gold"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:diamond_chestplate"
+            ]
+        },
+        "item": "tetratic_armory:modular_chestplate",
+        "modules": {
+            "chestplate/breastplate": [
+                "chestplate/basic_breastplate",
+                "basic_breastplate/diamond"
+            ],
+            "chestplate/pauldron_left": [
+                "chestplate/pauldron_left",
+                "pauldron_left/diamond"
+            ],
+            "chestplate/pauldron_right": [
+                "chestplate/pauldron_right",
+                "pauldron_right/diamond"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:netherite_chestplate"
+            ]
+        },
+        "item": "tetratic_armory:modular_chestplate",
+        "modules": {
+            "chestplate/breastplate": [
+                "chestplate/basic_breastplate",
+                "basic_breastplate/netherite"
+            ],
+            "chestplate/pauldron_left": [
+                "chestplate/pauldron_left",
+                "pauldron_left/netherite"
+            ],
+            "chestplate/pauldron_right": [
+                "chestplate/pauldron_right",
+                "pauldron_right/netherite"
+            ]
+        }
+    }
+]

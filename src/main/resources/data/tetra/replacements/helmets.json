@@ -1,0 +1,100 @@
+[
+    {
+        "predicate": {
+            "items": [
+                "minecraft:leather_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/leather"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:chainmail_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/chainmail"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:iron_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/iron"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:golden_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/gold"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:diamond_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/diamond"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:netherite_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/netherite"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:turtle_helmet"
+            ]
+        },
+        "item": "tetratic_armory:modular_helmet",
+        "modules": {
+            "helmet/skull": [
+                "helmet/basic_skull",
+                "basic_skull/turtle_scute"
+            ]
+        }
+    }
+]

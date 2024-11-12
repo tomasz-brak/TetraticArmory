@@ -1,0 +1,110 @@
+[
+    {
+        "predicate": {
+            "items": [
+                "minecraft:leather_boots"
+            ]
+        },
+        "item": "tetratic_armory:modular_boots",
+        "modules": {
+            "boots/foot_left": [
+                "boots/basic_foot_left",
+                "basic_foot/leather"
+            ],
+            "boots/foot_right": [
+                "boots/basic_foot_right",
+                "basic_foot/leather"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:chainmail_boots"
+            ]
+        },
+        "item": "tetratic_armory:modular_boots",
+        "modules": {
+            "boots/foot_left": [
+                "boots/basic_foot_left",
+                "basic_foot/chainmail"
+            ],
+            "boots/foot_right": [
+                "boots/basic_foot_right",
+                "basic_foot/chainmail"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:iron_boots"
+            ]
+        },
+        "item": "tetratic_armory:modular_boots",
+        "modules": {
+            "boots/foot_left": [
+                "boots/basic_foot_left",
+                "basic_foot/iron"
+            ],
+            "boots/foot_right": [
+                "boots/basic_foot_right",
+                "basic_foot/iron"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:golden_boots"
+            ]
+        },
+        "item": "tetratic_armory:modular_boots",
+        "modules": {
+            "boots/foot_left": [
+                "boots/basic_foot_left",
+                "basic_foot/gold"
+            ],
+            "boots/foot_right": [
+                "boots/basic_foot_right",
+                "basic_foot/gold"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:diamond_boots"
+            ]
+        },
+        "item": "tetratic_armory:modular_boots",
+        "modules": {
+            "boots/foot_left": [
+                "boots/basic_foot_left",
+                "basic_foot/diamond"
+            ],
+            "boots/foot_right": [
+                "boots/basic_foot_right",
+                "basic_foot/diamond"
+            ]
+        }
+    },
+    {
+        "predicate": {
+            "items": [
+                "minecraft:netherite_boots"
+            ]
+        },
+        "item": "tetratic_armory:modular_boots",
+        "modules": {
+            "boots/foot_left": [
+                "boots/basic_foot_left",
+                "basic_foot/netherite"
+            ],
+            "boots/foot_right": [
+                "boots/basic_foot_right",
+                "basic_foot/netherite"
+            ]
+        }
+    }
+]
